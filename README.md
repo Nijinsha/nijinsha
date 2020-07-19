@@ -1,4 +1,4 @@
-### Hi there 👋
+### Helping machines to take over the world! 
 
 <!--
 **Nijinsha/nijinsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
