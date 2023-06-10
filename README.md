@@ -1,4 +1,4 @@
-### Building products users love! 
+### Will code for food! 
 
 <!--
 **Nijinsha/nijinsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
