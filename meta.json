@@ -1,0 +1,11 @@
+{
+  "description": "Ticmint's first NFT on Testnet.",
+  "external_url": "https://ticmint.com/3",
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+  "name": "Event Name",
+  "attributes": [
+    {
+      "eventId": "123"
+    }
+  ]
+}
